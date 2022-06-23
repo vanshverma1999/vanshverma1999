@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vanshverma1999
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java,Python.
 - 💞️ I’m looking to collaborate on major projects
 - 📫 How to reach me https://www.linkedin.com/in/vanshverma1999/
 
